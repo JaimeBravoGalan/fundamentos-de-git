@@ -1,4 +1,4 @@
-Olá mundo!
-hallo Welt!
-hola móns!
-ciao mondo!
+Olá mundo
+hallo Welt
+hola móns
+ciao mondo
